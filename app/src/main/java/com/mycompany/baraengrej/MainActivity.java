@@ -18,6 +18,8 @@ import com.mycompany.baraengrej.databinding.ActivityMainBinding;
 import android.view.Menu;
 import android.view.MenuItem;
 
+//TEST COMMENT
+
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
